@@ -1,4 +1,4 @@
-# Project16 Rickenbacker4001 Electric Bass
+# Project16 Rickenbacker 4001 Electric Bass
 
 created by Project 16 (France) http://project16.altervista.org/rickenbacker/
 
