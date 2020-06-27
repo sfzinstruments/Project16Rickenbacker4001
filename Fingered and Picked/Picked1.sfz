@@ -1,0 +1,797 @@
+<group>
+pitchlfo_freq=0.01
+fillfo_freq=0.01
+amplfo_freq=0.01
+ampeg_release=0.100
+
+<region> sample=Samples\Picked1#E1_1.wav
+lokey=24
+hikey=28
+pitch_keycenter=28
+lovel=0
+hivel=35
+tune=-4
+
+<region> sample=Samples\Picked1#E1_2.wav
+lokey=24
+hikey=28
+pitch_keycenter=28
+lovel=36
+hivel=61
+tune=-4
+
+<region> sample=Samples\Picked1#E1_3.wav
+lokey=24
+hikey=28
+pitch_keycenter=28
+lovel=62
+hivel=87
+tune=-4
+
+<region> sample=Samples\Picked1#E1_4.wav
+lokey=24
+hikey=28
+pitch_keycenter=28
+lovel=88
+hivel=113
+tune=-8
+
+<region> sample=Samples\Picked1#E1_5.wav
+lokey=24
+hikey=28
+pitch_keycenter=28
+lovel=114
+hivel=127
+tune=-8
+
+<region> sample=Samples\Picked1#F1_1.wav
+lokey=29
+hikey=30
+pitch_keycenter=29
+lovel=0
+hivel=35
+tune=-13
+
+<region> sample=Samples\Picked1#F1_2.wav
+lokey=29
+hikey=30
+pitch_keycenter=29
+lovel=36
+hivel=61
+tune=-20
+
+<region> sample=Samples\Picked1#F1_3.wav
+lokey=29
+hikey=30
+pitch_keycenter=29
+lovel=62
+hivel=87
+tune=-20
+
+<region> sample=Samples\Picked1#F1_4.wav
+lokey=29
+hikey=30
+pitch_keycenter=29
+lovel=88
+hivel=113
+tune=-10
+
+<region> sample=Samples\Picked1#F1_5.wav
+lokey=29
+hikey=30
+pitch_keycenter=29
+lovel=114
+hivel=127
+tune=-10
+
+<region> sample=Samples\Picked1#G1_1.wav
+lokey=31
+hikey=32
+pitch_keycenter=31
+lovel=0
+hivel=35
+tune=-16
+
+<region> sample=Samples\Picked1#G1_2.wav
+lokey=31
+hikey=32
+pitch_keycenter=31
+lovel=36
+hivel=61
+tune=-16
+
+<region> sample=Samples\Picked1#G1_3.wav
+lokey=31
+hikey=32
+pitch_keycenter=31
+lovel=62
+hivel=87
+tune=-30
+
+<region> sample=Samples\Picked1#G1_4.wav
+lokey=31
+hikey=32
+pitch_keycenter=31
+lovel=88
+hivel=113
+tune=-24
+
+<region> sample=Samples\Picked1#G1_5.wav
+lokey=31
+hikey=32
+pitch_keycenter=31
+lovel=114
+hivel=127
+tune=-24
+
+<region> sample=Samples\Picked1#A1_1.wav
+lokey=33
+hikey=34
+pitch_keycenter=33
+lovel=0
+hivel=35
+tune=-4
+
+<region> sample=Samples\Picked1#A1_2.wav
+lokey=33
+hikey=34
+pitch_keycenter=33
+lovel=36
+hivel=61
+tune=-13
+
+<region> sample=Samples\Picked1#A1_3.wav
+lokey=33
+hikey=34
+pitch_keycenter=33
+lovel=62
+hivel=87
+tune=-13
+
+<region> sample=Samples\Picked1#A1_4.wav
+lokey=33
+hikey=34
+pitch_keycenter=33
+lovel=88
+hivel=113
+tune=-13
+
+<region> sample=Samples\Picked1#A1_5.wav
+lokey=33
+hikey=34
+pitch_keycenter=33
+lovel=114
+hivel=127
+tune=-13
+
+<region> sample=Samples\Picked1#B1_1.wav
+key=35
+lovel=0
+hivel=35
+tune=-10
+
+<region> sample=Samples\Picked1#B1_2.wav
+key=35
+lovel=36
+hivel=61
+tune=-15
+
+<region> sample=Samples\Picked1#B1_3.wav
+key=35
+lovel=62
+hivel=87
+tune=-16
+
+<region> sample=Samples\Picked1#B1_4.wav
+key=35
+lovel=88
+hivel=113
+tune=-19
+
+<region> sample=Samples\Picked1#B1_5.wav
+key=35
+lovel=114
+hivel=127
+tune=-19
+
+<region> sample=Samples\Picked1#C1_1.wav
+lokey=36
+hikey=37
+pitch_keycenter=36
+lovel=0
+hivel=35
+tune=-13
+
+<region> sample=Samples\Picked1#C1_2.wav
+lokey=36
+hikey=37
+pitch_keycenter=36
+lovel=36
+hivel=61
+tune=-13
+
+<region> sample=Samples\Picked1#C1_3.wav
+lokey=36
+hikey=37
+pitch_keycenter=36
+lovel=62
+hivel=87
+tune=-16
+
+<region> sample=Samples\Picked1#C1_4.wav
+lokey=36
+hikey=37
+pitch_keycenter=36
+lovel=88
+hivel=113
+tune=-19
+
+<region> sample=Samples\Picked1#C1_5.wav
+lokey=36
+hikey=37
+pitch_keycenter=36
+lovel=114
+hivel=127
+tune=-18
+
+<region> sample=Samples\Picked1#D1_1.wav
+lokey=38
+hikey=39
+pitch_keycenter=38
+lovel=0
+hivel=35
+tune=-15
+
+<region> sample=Samples\Picked1#D1_2.wav
+lokey=38
+hikey=39
+pitch_keycenter=38
+lovel=36
+hivel=61
+tune=-11
+
+<region> sample=Samples\Picked1#D1_3.wav
+lokey=38
+hikey=39
+pitch_keycenter=38
+lovel=62
+hivel=87
+tune=-17
+
+<region> sample=Samples\Picked1#D1_4.wav
+lokey=38
+hikey=39
+pitch_keycenter=38
+lovel=88
+hivel=113
+tune=-20
+
+<region> sample=Samples\Picked1#D1_5.wav
+lokey=38
+hikey=39
+pitch_keycenter=38
+lovel=114
+hivel=127
+tune=-23
+
+<region> sample=Samples\Picked1#E2_1.wav
+key=40
+lovel=0
+hivel=35
+tune=-11
+
+<region> sample=Samples\Picked1#E2_2.wav
+key=40
+lovel=36
+hivel=61
+tune=-11
+
+<region> sample=Samples\Picked1#E2_3.wav
+key=40
+lovel=62
+hivel=87
+tune=-13
+
+<region> sample=Samples\Picked1#E2_4.wav
+key=40
+lovel=88
+hivel=113
+tune=-13
+
+<region> sample=Samples\Picked1#E2_5.wav
+key=40
+lovel=114
+hivel=127
+tune=-15
+
+<region> sample=Samples\Picked1#F2_1.wav
+lokey=41
+hikey=42
+pitch_keycenter=41
+lovel=0
+hivel=35
+tune=-13
+
+<region> sample=Samples\Picked1#F2_2.wav
+lokey=41
+hikey=42
+pitch_keycenter=41
+lovel=36
+hivel=61
+tune=-15
+
+<region> sample=Samples\Picked1#F2_3.wav
+lokey=41
+hikey=42
+pitch_keycenter=41
+lovel=62
+hivel=87
+tune=-15
+
+<region> sample=Samples\Picked1#F2_4.wav
+lokey=41
+hikey=42
+pitch_keycenter=41
+lovel=88
+hivel=113
+tune=-17
+
+<region> sample=Samples\Picked1#F2_5.wav
+lokey=41
+hikey=42
+pitch_keycenter=41
+lovel=114
+hivel=127
+tune=-17
+
+<region> sample=Samples\Picked1#G2_1.wav
+lokey=43
+hikey=44
+pitch_keycenter=43
+lovel=0
+hivel=35
+tune=-16
+
+<region> sample=Samples\Picked1#G2_2.wav
+lokey=43
+hikey=44
+pitch_keycenter=43
+lovel=36
+hivel=61
+tune=-16
+
+<region> sample=Samples\Picked1#G2_3.wav
+lokey=43
+hikey=44
+pitch_keycenter=43
+lovel=62
+hivel=87
+tune=-12
+
+<region> sample=Samples\Picked1#G2_4.wav
+lokey=43
+hikey=44
+pitch_keycenter=43
+lovel=88
+hivel=113
+tune=-15
+
+<region> sample=Samples\Picked1#G2_5.wav
+lokey=43
+hikey=44
+pitch_keycenter=43
+lovel=114
+hivel=127
+tune=-15
+
+<region> sample=Samples\Picked1#A2_1.wav
+lokey=45
+hikey=46
+pitch_keycenter=45
+lovel=0
+hivel=35
+tune=-12
+
+<region> sample=Samples\Picked1#A2_2.wav
+lokey=45
+hikey=46
+pitch_keycenter=45
+lovel=36
+hivel=61
+tune=-6
+
+<region> sample=Samples\Picked1#A2_3.wav
+lokey=45
+hikey=46
+pitch_keycenter=45
+lovel=62
+hivel=87
+tune=-10
+
+<region> sample=Samples\Picked1#A2_4.wav
+lokey=45
+hikey=46
+pitch_keycenter=45
+lovel=88
+hivel=113
+tune=-11
+
+<region> sample=Samples\Picked1#A2_5.wav
+lokey=45
+hikey=46
+pitch_keycenter=45
+lovel=114
+hivel=127
+tune=-11
+
+<region> sample=Samples\Picked1#B2_1.wav
+key=47
+lovel=0
+hivel=35
+tune=-10
+
+<region> sample=Samples\Picked1#B2_2.wav
+key=47
+lovel=36
+hivel=61
+tune=-11
+
+<region> sample=Samples\Picked1#B2_3.wav
+key=47
+lovel=62
+hivel=87
+tune=-8
+
+<region> sample=Samples\Picked1#B2_4.wav
+key=47
+lovel=88
+hivel=113
+tune=-8
+
+<region> sample=Samples\Picked1#B2_5.wav
+key=47
+lovel=114
+hivel=127
+tune=-7
+
+<region> sample=Samples\Picked1#C2_1.wav
+lokey=48
+hikey=49
+pitch_keycenter=48
+lovel=0
+hivel=35
+tune=-11
+
+<region> sample=Samples\Picked1#C2_2.wav
+lokey=48
+hikey=49
+pitch_keycenter=48
+lovel=36
+hivel=61
+tune=-12
+
+<region> sample=Samples\Picked1#C2_3.wav
+lokey=48
+hikey=49
+pitch_keycenter=48
+lovel=62
+hivel=87
+tune=-11
+
+<region> sample=Samples\Picked1#C2_4.wav
+lokey=48
+hikey=49
+pitch_keycenter=48
+lovel=88
+hivel=113
+tune=-11
+
+<region> sample=Samples\Picked1#C2_5.wav
+lokey=48
+hikey=49
+pitch_keycenter=48
+lovel=114
+hivel=127
+tune=-12
+
+<region> sample=Samples\Picked1#D2_1.wav
+lokey=50
+hikey=51
+pitch_keycenter=50
+lovel=0
+hivel=35
+tune=-22
+
+<region> sample=Samples\Picked1#D2_2.wav
+lokey=50
+hikey=51
+pitch_keycenter=50
+lovel=36
+hivel=61
+tune=-22
+
+<region> sample=Samples\Picked1#D2_3.wav
+lokey=50
+hikey=51
+pitch_keycenter=50
+lovel=62
+hivel=87
+tune=-20
+
+<region> sample=Samples\Picked1#D2_4.wav
+lokey=50
+hikey=51
+pitch_keycenter=50
+lovel=88
+hivel=113
+tune=-20
+
+<region> sample=Samples\Picked1#D2_5.wav
+lokey=50
+hikey=51
+pitch_keycenter=50
+lovel=114
+hivel=127
+tune=-20
+
+<region> sample=Samples\Picked1#E3_1.wav
+key=52
+lovel=0
+hivel=35
+tune=-12
+
+<region> sample=Samples\Picked1#E3_2.wav
+key=52
+lovel=36
+hivel=61
+tune=-13
+
+<region> sample=Samples\Picked1#E3_3.wav
+key=52
+lovel=62
+hivel=87
+tune=-13
+
+<region> sample=Samples\Picked1#E3_4.wav
+key=52
+lovel=88
+hivel=113
+tune=-14
+
+<region> sample=Samples\Picked1#E3_5.wav
+key=52
+lovel=114
+hivel=127
+tune=-14
+
+<region> sample=Samples\Picked1#F3_1.wav
+lokey=53
+hikey=54
+pitch_keycenter=53
+lovel=0
+hivel=35
+tune=-13
+
+<region> sample=Samples\Picked1#F3_2.wav
+lokey=53
+hikey=54
+pitch_keycenter=53
+lovel=36
+hivel=61
+tune=-15
+
+<region> sample=Samples\Picked1#F3_3.wav
+lokey=53
+hikey=54
+pitch_keycenter=53
+lovel=62
+hivel=87
+tune=-15
+
+<region> sample=Samples\Picked1#F3_4.wav
+lokey=53
+hikey=54
+pitch_keycenter=53
+lovel=88
+hivel=113
+tune=-15
+
+<region> sample=Samples\Picked1#F3_5.wav
+lokey=53
+hikey=54
+pitch_keycenter=53
+lovel=114
+hivel=127
+tune=-12
+
+<region> sample=Samples\Picked1#G3_1.wav
+lokey=55
+hikey=56
+pitch_keycenter=55
+lovel=0
+hivel=35
+tune=-15
+
+<region> sample=Samples\Picked1#G3_2.wav
+lokey=55
+hikey=56
+pitch_keycenter=55
+lovel=36
+hivel=61
+tune=-13
+
+<region> sample=Samples\Picked1#G3_3.wav
+lokey=55
+hikey=56
+pitch_keycenter=55
+lovel=62
+hivel=87
+tune=-15
+
+<region> sample=Samples\Picked1#G3_4.wav
+lokey=55
+hikey=56
+pitch_keycenter=55
+lovel=88
+hivel=113
+tune=-15
+
+<region> sample=Samples\Picked1#G3_5.wav
+lokey=55
+hikey=56
+pitch_keycenter=55
+lovel=114
+hivel=127
+tune=-13
+
+<region> sample=Samples\Picked1#A3_1.wav
+lokey=57
+hikey=58
+pitch_keycenter=57
+lovel=0
+hivel=35
+tune=-38
+
+<region> sample=Samples\Picked1#A3_2.wav
+lokey=57
+hikey=58
+pitch_keycenter=57
+lovel=36
+hivel=61
+tune=-38
+
+<region> sample=Samples\Picked1#A3_3.wav
+lokey=57
+hikey=58
+pitch_keycenter=57
+lovel=62
+hivel=87
+tune=-37
+
+<region> sample=Samples\Picked1#A3_4.wav
+lokey=57
+hikey=58
+pitch_keycenter=57
+lovel=88
+hivel=113
+tune=-38
+
+<region> sample=Samples\Picked1#A3_5.wav
+lokey=57
+hikey=58
+pitch_keycenter=57
+lovel=114
+hivel=127
+tune=-38
+
+<region> sample=Samples\Picked1#B3_1.wav
+key=59
+lovel=0
+hivel=35
+tune=-26
+
+<region> sample=Samples\Picked1#B3_2.wav
+key=59
+lovel=36
+hivel=61
+tune=-25
+
+<region> sample=Samples\Picked1#B3_3.wav
+key=59
+lovel=62
+hivel=87
+tune=-25
+
+<region> sample=Samples\Picked1#B3_4.wav
+key=59
+lovel=88
+hivel=113
+tune=-25
+
+<region> sample=Samples\Picked1#B3_5.wav
+key=59
+lovel=114
+hivel=127
+tune=-25
+
+<region> sample=Samples\Picked1#C3_1.wav
+lokey=60
+hikey=61
+pitch_keycenter=60
+lovel=0
+hivel=35
+tune=-27
+
+<region> sample=Samples\Picked1#C3_2.wav
+lokey=60
+hikey=61
+pitch_keycenter=60
+lovel=36
+hivel=61
+tune=-31
+
+<region> sample=Samples\Picked1#C3_3.wav
+lokey=60
+hikey=61
+pitch_keycenter=60
+lovel=62
+hivel=87
+tune=-29
+
+<region> sample=Samples\Picked1#C3_4.wav
+lokey=60
+hikey=61
+pitch_keycenter=60
+lovel=88
+hivel=113
+tune=-27
+
+<region> sample=Samples\Picked1#C3_5.wav
+lokey=60
+hikey=61
+pitch_keycenter=60
+lovel=114
+hivel=127
+tune=-27
+
+<region> sample=Samples\Picked1#D3_1.wav
+lokey=62
+hikey=63
+pitch_keycenter=62
+lovel=0
+hivel=35
+tune=-32
+
+<region> sample=Samples\Picked1#D3_2.wav
+lokey=62
+hikey=63
+pitch_keycenter=62
+lovel=36
+hivel=61
+tune=-33
+
+<region> sample=Samples\Picked1#D3_3.wav
+lokey=62
+hikey=63
+pitch_keycenter=62
+lovel=62
+hivel=87
+tune=-33
+
+<region> sample=Samples\Picked1#D3_4.wav
+lokey=62
+hikey=63
+pitch_keycenter=62
+lovel=88
+hivel=113
+tune=-33
+
+<region> sample=Samples\Picked1#D3_5.wav
+lokey=62
+hikey=63
+pitch_keycenter=62
+lovel=114
+hivel=127
+tune=-32
+
+
