@@ -1,0 +1,692 @@
+<group>
+pitchlfo_freq=0.01
+fillfo_freq=0.01
+amplfo_freq=0.01
+ampeg_release=0.100
+
+<region> sample=Samples\Slap2#Short-E1_1.wav
+lokey=24
+hikey=28
+pitch_keycenter=28
+lovel=0
+hivel=35
+
+<region> sample=Samples\Slap2#Short-E1_2.wav
+lokey=24
+hikey=28
+pitch_keycenter=28
+lovel=36
+hivel=61
+
+<region> sample=Samples\Slap2#Short-E1_3.wav
+lokey=24
+hikey=28
+pitch_keycenter=28
+lovel=62
+hivel=87
+
+<region> sample=Samples\Slap2#Short-E1_4.wav
+lokey=24
+hikey=28
+pitch_keycenter=28
+lovel=88
+hivel=113
+
+<region> sample=Samples\Slap2#Short-E1_5.wav
+lokey=24
+hikey=28
+pitch_keycenter=28
+lovel=114
+hivel=127
+
+<region> sample=Samples\Slap2#Short-F1_1.wav
+lokey=29
+hikey=30
+pitch_keycenter=29
+lovel=0
+hivel=35
+
+<region> sample=Samples\Slap2#Short-F1_2.wav
+lokey=29
+hikey=30
+pitch_keycenter=29
+lovel=36
+hivel=61
+
+<region> sample=Samples\Slap2#Short-F1_3.wav
+lokey=29
+hikey=30
+pitch_keycenter=29
+lovel=62
+hivel=87
+
+<region> sample=Samples\Slap2#Short-F1_4.wav
+lokey=29
+hikey=30
+pitch_keycenter=29
+lovel=88
+hivel=113
+
+<region> sample=Samples\Slap2#Short-F1_5.wav
+lokey=29
+hikey=30
+pitch_keycenter=29
+lovel=114
+hivel=127
+
+<region> sample=Samples\Slap2#Short-G1_1.wav
+lokey=31
+hikey=32
+pitch_keycenter=31
+lovel=0
+hivel=35
+
+<region> sample=Samples\Slap2#Short-G1_2.wav
+lokey=31
+hikey=32
+pitch_keycenter=31
+lovel=36
+hivel=61
+
+<region> sample=Samples\Slap2#Short-G1_3.wav
+lokey=31
+hikey=32
+pitch_keycenter=31
+lovel=62
+hivel=87
+
+<region> sample=Samples\Slap2#Short-G1_4.wav
+lokey=31
+hikey=32
+pitch_keycenter=31
+lovel=88
+hivel=113
+
+<region> sample=Samples\Slap2#Short-G1_5.wav
+lokey=31
+hikey=32
+pitch_keycenter=31
+lovel=114
+hivel=127
+
+<region> sample=Samples\Slap2#Short-A1_1.wav
+lokey=33
+hikey=34
+pitch_keycenter=33
+lovel=0
+hivel=35
+
+<region> sample=Samples\Slap2#Short-A1_2.wav
+lokey=33
+hikey=34
+pitch_keycenter=33
+lovel=36
+hivel=61
+
+<region> sample=Samples\Slap2#Short-A1_3.wav
+lokey=33
+hikey=34
+pitch_keycenter=33
+lovel=62
+hivel=87
+
+<region> sample=Samples\Slap2#Short-A1_4.wav
+lokey=33
+hikey=34
+pitch_keycenter=33
+lovel=88
+hivel=113
+
+<region> sample=Samples\Slap2#Short-A1_5.wav
+lokey=33
+hikey=34
+pitch_keycenter=33
+lovel=114
+hivel=127
+
+<region> sample=Samples\Slap2#Short-B1_1.wav
+key=35
+lovel=0
+hivel=35
+
+<region> sample=Samples\Slap2#Short-B1_2.wav
+key=35
+lovel=36
+hivel=61
+
+<region> sample=Samples\Slap2#Short-B1_3.wav
+key=35
+lovel=62
+hivel=87
+
+<region> sample=Samples\Slap2#Short-B1_4.wav
+key=35
+lovel=88
+hivel=113
+
+<region> sample=Samples\Slap2#Short-B1_5.wav
+key=35
+lovel=114
+hivel=127
+
+<region> sample=Samples\Slap2#Short-C1_1.wav
+lokey=36
+hikey=37
+pitch_keycenter=36
+lovel=0
+hivel=35
+
+<region> sample=Samples\Slap2#Short-C1_2.wav
+lokey=36
+hikey=37
+pitch_keycenter=36
+lovel=36
+hivel=61
+
+<region> sample=Samples\Slap2#Short-C1_3.wav
+lokey=36
+hikey=37
+pitch_keycenter=36
+lovel=62
+hivel=87
+
+<region> sample=Samples\Slap2#Short-C1_4.wav
+lokey=36
+hikey=37
+pitch_keycenter=36
+lovel=88
+hivel=113
+
+<region> sample=Samples\Slap2#Short-C1_5.wav
+lokey=36
+hikey=37
+pitch_keycenter=36
+lovel=114
+hivel=127
+
+<region> sample=Samples\Slap2#Short-D1_1.wav
+lokey=38
+hikey=39
+pitch_keycenter=38
+lovel=0
+hivel=35
+
+<region> sample=Samples\Slap2#Short-D1_2.wav
+lokey=38
+hikey=39
+pitch_keycenter=38
+lovel=36
+hivel=61
+
+<region> sample=Samples\Slap2#Short-D1_3.wav
+lokey=38
+hikey=39
+pitch_keycenter=38
+lovel=62
+hivel=87
+
+<region> sample=Samples\Slap2#Short-D1_4.wav
+lokey=38
+hikey=39
+pitch_keycenter=38
+lovel=88
+hivel=113
+
+<region> sample=Samples\Slap2#Short-D1_5.wav
+lokey=38
+hikey=39
+pitch_keycenter=38
+lovel=114
+hivel=127
+
+<region> sample=Samples\Slap2#Short-E2_1.wav
+key=40
+lovel=0
+hivel=35
+
+<region> sample=Samples\Slap2#Short-E2_2.wav
+key=40
+lovel=36
+hivel=61
+
+<region> sample=Samples\Slap2#Short-E2_3.wav
+key=40
+lovel=62
+hivel=87
+
+<region> sample=Samples\Slap2#Short-E2_4.wav
+key=40
+lovel=88
+hivel=113
+
+<region> sample=Samples\Slap2#Short-E2_5.wav
+key=40
+lovel=114
+hivel=127
+
+<region> sample=Samples\Slap2#Short-F2_1.wav
+lokey=41
+hikey=42
+pitch_keycenter=41
+lovel=0
+hivel=35
+
+<region> sample=Samples\Slap2#Short-F2_2.wav
+lokey=41
+hikey=42
+pitch_keycenter=41
+lovel=36
+hivel=61
+
+<region> sample=Samples\Slap2#Short-F2_3.wav
+lokey=41
+hikey=42
+pitch_keycenter=41
+lovel=62
+hivel=87
+
+<region> sample=Samples\Slap2#Short-F2_4.wav
+lokey=41
+hikey=42
+pitch_keycenter=41
+lovel=88
+hivel=113
+
+<region> sample=Samples\Slap2#Short-F2_5.wav
+lokey=41
+hikey=42
+pitch_keycenter=41
+lovel=114
+hivel=127
+
+<region> sample=Samples\Slap2#Short-G2_1.wav
+lokey=43
+hikey=44
+pitch_keycenter=43
+lovel=0
+hivel=35
+
+<region> sample=Samples\Slap2#Short-G2_2.wav
+lokey=43
+hikey=44
+pitch_keycenter=43
+lovel=36
+hivel=61
+
+<region> sample=Samples\Slap2#Short-G2_3.wav
+lokey=43
+hikey=44
+pitch_keycenter=43
+lovel=62
+hivel=87
+
+<region> sample=Samples\Slap2#Short-G2_4.wav
+lokey=43
+hikey=44
+pitch_keycenter=43
+lovel=88
+hivel=113
+
+<region> sample=Samples\Slap2#Short-G2_5.wav
+lokey=43
+hikey=44
+pitch_keycenter=43
+lovel=114
+hivel=127
+
+<region> sample=Samples\Slap2#Short-A2_1.wav
+lokey=45
+hikey=46
+pitch_keycenter=45
+lovel=0
+hivel=35
+
+<region> sample=Samples\Slap2#Short-A2_2.wav
+lokey=45
+hikey=46
+pitch_keycenter=45
+lovel=36
+hivel=61
+
+<region> sample=Samples\Slap2#Short-A2_3.wav
+lokey=45
+hikey=46
+pitch_keycenter=45
+lovel=62
+hivel=87
+
+<region> sample=Samples\Slap2#Short-A2_4.wav
+lokey=45
+hikey=46
+pitch_keycenter=45
+lovel=88
+hivel=113
+
+<region> sample=Samples\Slap2#Short-A2_5.wav
+lokey=45
+hikey=46
+pitch_keycenter=45
+lovel=114
+hivel=127
+
+<region> sample=Samples\Slap2#Short-B2_1.wav
+key=47
+lovel=0
+hivel=35
+
+<region> sample=Samples\Slap2#Short-B2_2.wav
+key=47
+lovel=36
+hivel=61
+
+<region> sample=Samples\Slap2#Short-B2_3.wav
+key=47
+lovel=62
+hivel=87
+
+<region> sample=Samples\Slap2#Short-B2_4.wav
+key=47
+lovel=88
+hivel=113
+
+<region> sample=Samples\Slap2#Short-B2_5.wav
+key=47
+lovel=114
+hivel=127
+
+<region> sample=Samples\Slap2#Short-C2_1.wav
+lokey=48
+hikey=49
+pitch_keycenter=48
+lovel=0
+hivel=35
+
+<region> sample=Samples\Slap2#Short-C2_2.wav
+lokey=48
+hikey=49
+pitch_keycenter=48
+lovel=36
+hivel=61
+
+<region> sample=Samples\Slap2#Short-C2_3.wav
+lokey=48
+hikey=49
+pitch_keycenter=48
+lovel=62
+hivel=87
+
+<region> sample=Samples\Slap2#Short-C2_4.wav
+lokey=48
+hikey=49
+pitch_keycenter=48
+lovel=88
+hivel=113
+
+<region> sample=Samples\Slap2#Short-C2_5.wav
+lokey=48
+hikey=49
+pitch_keycenter=48
+lovel=114
+hivel=127
+
+<region> sample=Samples\Slap2#Short-D2_1.wav
+lokey=50
+hikey=51
+pitch_keycenter=50
+lovel=0
+hivel=35
+
+<region> sample=Samples\Slap2#Short-D2_2.wav
+lokey=50
+hikey=51
+pitch_keycenter=50
+lovel=36
+hivel=61
+
+<region> sample=Samples\Slap2#Short-D2_3.wav
+lokey=50
+hikey=51
+pitch_keycenter=50
+lovel=62
+hivel=87
+
+<region> sample=Samples\Slap2#Short-D2_4.wav
+lokey=50
+hikey=51
+pitch_keycenter=50
+lovel=88
+hivel=113
+
+<region> sample=Samples\Slap2#Short-D2_5.wav
+lokey=50
+hikey=51
+pitch_keycenter=50
+lovel=114
+hivel=127
+
+<region> sample=Samples\Slap2#Short-E3_1.wav
+key=52
+lovel=0
+hivel=35
+
+<region> sample=Samples\Slap2#Short-E3_2.wav
+key=52
+lovel=36
+hivel=61
+
+<region> sample=Samples\Slap2#Short-E3_3.wav
+key=52
+lovel=62
+hivel=87
+
+<region> sample=Samples\Slap2#Short-E3_4.wav
+key=52
+lovel=88
+hivel=113
+
+<region> sample=Samples\Slap2#Short-E3_5.wav
+key=52
+lovel=114
+hivel=127
+
+<region> sample=Samples\Slap2#Short-F3_1.wav
+lokey=53
+hikey=54
+pitch_keycenter=53
+lovel=0
+hivel=35
+
+<region> sample=Samples\Slap2#Short-F3_2.wav
+lokey=53
+hikey=54
+pitch_keycenter=53
+lovel=36
+hivel=61
+
+<region> sample=Samples\Slap2#Short-F3_3.wav
+lokey=53
+hikey=54
+pitch_keycenter=53
+lovel=62
+hivel=87
+
+<region> sample=Samples\Slap2#Short-F3_4.wav
+lokey=53
+hikey=54
+pitch_keycenter=53
+lovel=88
+hivel=113
+
+<region> sample=Samples\Slap2#Short-F3_5.wav
+lokey=53
+hikey=54
+pitch_keycenter=53
+lovel=114
+hivel=127
+
+<region> sample=Samples\Slap2#Short-G3_1.wav
+lokey=55
+hikey=56
+pitch_keycenter=55
+lovel=0
+hivel=35
+
+<region> sample=Samples\Slap2#Short-G3_2.wav
+lokey=55
+hikey=56
+pitch_keycenter=55
+lovel=36
+hivel=61
+
+<region> sample=Samples\Slap2#Short-G3_3.wav
+lokey=55
+hikey=56
+pitch_keycenter=55
+lovel=62
+hivel=87
+
+<region> sample=Samples\Slap2#Short-G3_4.wav
+lokey=55
+hikey=56
+pitch_keycenter=55
+lovel=88
+hivel=113
+
+<region> sample=Samples\Slap2#Short-G3_5.wav
+lokey=55
+hikey=56
+pitch_keycenter=55
+lovel=114
+hivel=127
+
+<region> sample=Samples\Slap2#Short-A3_1.wav
+lokey=57
+hikey=58
+pitch_keycenter=57
+lovel=0
+hivel=35
+
+<region> sample=Samples\Slap2#Short-A3_2.wav
+lokey=57
+hikey=58
+pitch_keycenter=57
+lovel=36
+hivel=61
+
+<region> sample=Samples\Slap2#Short-A3_3.wav
+lokey=57
+hikey=58
+pitch_keycenter=57
+lovel=62
+hivel=87
+
+<region> sample=Samples\Slap2#Short-A3_4.wav
+lokey=57
+hikey=58
+pitch_keycenter=57
+lovel=88
+hivel=113
+
+<region> sample=Samples\Slap2#Short-A3_5.wav
+lokey=57
+hikey=58
+pitch_keycenter=57
+lovel=114
+hivel=127
+
+<region> sample=Samples\Slap2#Short-B3_1.wav
+key=59
+lovel=0
+hivel=35
+
+<region> sample=Samples\Slap2#Short-B3_2.wav
+key=59
+lovel=36
+hivel=61
+
+<region> sample=Samples\Slap2#Short-B3_3.wav
+key=59
+lovel=62
+hivel=87
+
+<region> sample=Samples\Slap2#Short-B3_4.wav
+key=59
+lovel=88
+hivel=113
+
+<region> sample=Samples\Slap2#Short-B3_5.wav
+key=59
+lovel=114
+hivel=127
+
+<region> sample=Samples\Slap2#Short-C3_1.wav
+lokey=60
+hikey=61
+pitch_keycenter=60
+lovel=0
+hivel=35
+
+<region> sample=Samples\Slap2#Short-C3_2.wav
+lokey=60
+hikey=61
+pitch_keycenter=60
+lovel=36
+hivel=61
+
+<region> sample=Samples\Slap2#Short-C3_3.wav
+lokey=60
+hikey=61
+pitch_keycenter=60
+lovel=62
+hivel=87
+
+<region> sample=Samples\Slap2#Short-C3_4.wav
+lokey=60
+hikey=61
+pitch_keycenter=60
+lovel=88
+hivel=113
+
+<region> sample=Samples\Slap2#Short-C3_5.wav
+lokey=60
+hikey=61
+pitch_keycenter=60
+lovel=114
+hivel=127
+
+<region> sample=Samples\Slap2#Short-D3_1.wav
+lokey=62
+hikey=63
+pitch_keycenter=62
+lovel=0
+hivel=35
+
+<region> sample=Samples\Slap2#Short-D3_2.wav
+lokey=62
+hikey=63
+pitch_keycenter=62
+lovel=36
+hivel=61
+
+<region> sample=Samples\Slap2#Short-D3_3.wav
+lokey=62
+hikey=63
+pitch_keycenter=62
+lovel=62
+hivel=87
+
+<region> sample=Samples\Slap2#Short-D3_4.wav
+lokey=62
+hikey=63
+pitch_keycenter=62
+lovel=88
+hivel=113
+
+<region> sample=Samples\Slap2#Short-D3_5.wav
+lokey=62
+hikey=63
+pitch_keycenter=62
+lovel=114
+hivel=127
+
+
